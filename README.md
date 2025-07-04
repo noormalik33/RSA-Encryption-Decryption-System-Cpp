@@ -80,12 +80,14 @@ Euler's Totient Function f(33): 20
 Encrypted Message: 26
 Decrypted Message: 5
 
-## 👩‍💻 Developed By
+ ## 👩‍💻 Author
 
-Noor Malik
-📍 Islamabad, Pakistan
-📧 noormalik56500@gmail.com
-🔗 LinkedIn
+**Noor Malik**  
+IT Student  
+📍 Islamabad, Pakistan  
+📧 Email: noormalik56500@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/noormalik56500/)
+
 
 🛡 This project is designed for academic and educational use. For real-world cryptographic applications, use verified and secure libraries.
 
